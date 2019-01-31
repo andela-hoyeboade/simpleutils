@@ -1,0 +1,11 @@
+.UtilApps {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 50px;
+    background-color: #cecccc;
+    border-radius: 10px;
+    height: 650px;
+    padding: 30px;
+    overflow: auto;
+}
